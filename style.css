@@ -4,3 +4,8 @@ p{
   font-size:64px;
   font:style-bold;
 }
+#box1{
+  width:1000px;
+  height:200px;
+  background:blue;
+}
